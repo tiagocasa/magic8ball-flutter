@@ -1,16 +1,14 @@
-# magic8ball
 
-A new Flutter project.
+# Magic 8 Ball 🎱
 
-## Getting Started
+The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
 
-This project is a starting point for a Flutter application.
+## Framework
 
-A few resources to get you started if this is your first Flutter project:
+**Flutter:** Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Udemy
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This is a challenge from de udemy course [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+
