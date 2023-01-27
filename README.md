@@ -10,6 +10,6 @@ The objective of this challenge is to solidify what you've learn't in the Dicee 
 
 **Flutter:** Dart
 
-- This is a challenge from de udemy course [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+- This is a challenge from the udemy course [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 
